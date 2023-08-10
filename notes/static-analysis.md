@@ -71,7 +71,8 @@ Adjust ESLint rules to always show as yellow 'warn' squigglies instead of all re
 ### Eslint Parser
 Tells ESLint how to parse TypeScript
 
-**INSERT SOMETHING ELSE MISSED FROM SLIDE**
+### ESLint Plugin
+Loads in new rules & preset configs that you can enable
 
 
 ## Type-checked Linting
